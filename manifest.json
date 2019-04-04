@@ -3,7 +3,6 @@
 
 	"name": "Light Theme With Dark Incognito",
 	"description": "A theme that removes the dark color scheme from Chrome for Dark Mode users.",
-	"default_locale": "en",
 	"version": "0.1.0",
 	"author": "Drew Franz",
 	"website": "https://github.com/drewfranz/incognito-light-theme",
